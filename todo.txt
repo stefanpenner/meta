@@ -1,0 +1,12 @@
+- [ ] beforeObserver (dies)
+  - [ ] remove suspendListener
+  - [ ] remove suspendListeners
+  - [ ] remove accumulateListeners
+
+- [ ] immediateObserver (dies)
+
+- [ ] 2.0 deprecate setProperties coalescing
+  - [ ]
+
+- [ ] tests
+- [ ] benchmark
